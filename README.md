@@ -1,4 +1,4 @@
-# Guia para Criar seu Primeiro Projeto de Portfólio em Engenharia de Dados
+# Como criar seu primeiro projeto de portfólio em dados
 
 Criar um projeto de portfólio impressionante é fundamental para demonstrar suas habilidades técnicas e atrair a atenção de recrutadores na área de engenharia de dados. Este guia detalha as melhores práticas, desde a escolha das tecnologias até a divulgação no GitHub e LinkedIn, ajudando você a montar um projeto **end-to-end** que destaque seu potencial.
 
@@ -212,19 +212,4 @@ Para seu primeiro projeto de portfólio em engenharia de dados, o ideal é escol
 **Dicas finais sobre escopo**: Priorize projetos **relevantes e autênticos**. Se possível, escolha um tema que te entusiasma – sua motivação vai transparecer no resultado. Evite datasets excessivamente manjados (o clássico Titanic dataset, por exemplo, já não agrega muito valor no currículo), a não ser que você faça algo *inovador* com eles. Mantenha o projeto viável: melhor um pipeline pequeno funcionando bem e muito bem apresentado do que uma ideia grandiosa pela metade. Você sempre pode expandir um projeto no futuro, então entregue uma versão consistente agora.
 
 Por fim, **capriche na apresentação e storytelling** do projeto. Explique o *porquê* dele: qual seria o benefício se fosse usado em produção? Quem se beneficiaria dos insights? Mesmo que seja fictício, alinhar o projeto a casos de uso reais torna-o mais interessante para quem avalia. Com um escopo bem definido, ferramentas adequadas e boa comunicação, seu primeiro projeto de portfólio em engenharia de dados certamente impressionará recrutadores e abrirá portas na sua carreira. Boa sorte na construção do seu projeto! 🚀
-
-**Referências e Recursos:**
-
-* Awari. *“Quais Projetos Incluir no Portfólio para Engenharia de Dados?”* – Ideias de projetos e dicas de apresentação.
-* DataCamp. *“Top 11 Data Engineering Projects for Hands-On Learning”* – Exemplos de projetos (pipelines com BigQuery, PostgreSQL, Spark, Kafka etc.).
-* Medium (Renato Favarin). *“Como deixar seu portfólio no LinkedIn mais bonito”* – Tutorial de como usar *Social Preview* do GitHub para melhorar a aparência do link compartilhado.
-* Data Engineering Community. *“Data Engineering Project Template”* – Template de repositório com dashboard e arquitetura de exemplo.
-* LinkedIn (João Oliveira/Evolve Data). *“Como criar um projeto de portfólio na área de dados”* – Estrutura recomendada (Entendimento, Justificativa, Desenvolvimento, Valor) e importância de divulgar no LinkedIn.
-* LinkedIn (Satish Bhattarai). *“Top Data Engineering Tools in 2024”* – Lista das principais ferramentas usadas por engenheiros de dados em 2024 (Airflow, Spark, Kafka, dbt, Snowflake, BigQuery etc.).
-* GitHub – *Exemplos de portfólios e projetos*:
-
-  * Stephen137/end\_to\_end\_data\_pipeline (pipeline automatizado de CSV a dashboard com Terraform, GCP, dbt, Prefect, Looker).
-  * Zachlq/Professional\_Portfolio (diversos projetos de data engineering em um só repo).
-  * Outros citados via DataCamp.
-
-Cada um desses recursos pode oferecer insights adicionais e inspirar melhorias no seu projeto. Lembre-se: um portfólio eficaz é aquele que **conta uma história** sobre suas habilidades e conquistas – use seu projeto para contar a sua! Boa construção de portfólio! 🎉
+=
